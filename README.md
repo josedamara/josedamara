@@ -2,7 +2,7 @@
 
 Software Engineer and Data Analyst based in Vancouver, studying at UBC.
 
-I like turning logic into software and data into insights. I'm most interested in front-end development, responsive web design, and machine learning.
+I like turning logic into software and data into insights. I'm most interested in full-stack development, responsive web design, and machine learning.
 
 ### Tech I use
 
