@@ -26,6 +26,6 @@ More projects are on my [personal website](https://personal-website-drab-six.ver
 
 ### Get in touch
 
-- Website: [personal-website-drab-six.vercel.app](https://personal-website-drab-six.vercel.app)
+- Website: [josedamara.vercel.app](https://josedamara.vercel.app)
 - LinkedIn: [jose-damara-hadriana](https://www.linkedin.com/in/jose-damara-hadriana/)
 - Email: josedamara0211@gmail.com
