@@ -18,9 +18,8 @@ I like turning logic into software and data into insights. I'm most interested i
 | --- | --- | --- |
 | [Trije Bali](https://github.com/josedamara/website-trije-bali) | Company website for a Balinese coffee brand. [Live site](https://www.trijebali.com) | React, TypeScript, Tailwind CSS |
 | [UBC Open Robotics](https://github.com/UBC-OpenRobotics/website) | Club website for UBC Open Robotics. [Live site](https://openrobotics.ca) | Jekyll, Tailwind CSS, JavaScript |
+| MolMaker ([UI](https://github.com/UBCC3/react-ui), [backend](https://github.com/UBCC3/molmaker_backend)) | Web platform for building molecular structures and running computational chemistry calculations on a research computing cluster | React, TypeScript, Material UI, FastAPI, PostgreSQL |
 | [WasteNot](https://github.com/josedamara/WasteNot) | Food waste management app that suggests recipes and connects users with local donation options | JavaScript, Oracle SQL |
-| [Financial Ad Person Analysis](https://github.com/josedamara/financial-ad-person-analysis) | CNN that classifies scraped financial ads by whether a person appears in them | Python, PyTorch, Selenium |
-| [MoneyTrackerApp](https://github.com/josedamara/MoneyTrackerApp) | Desktop app for tracking money flow across multiple bank accounts | Java, Swing, JUnit |
 
 More projects are on my [personal website](https://personal-website-drab-six.vercel.app).
 
